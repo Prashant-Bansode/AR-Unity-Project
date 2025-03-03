@@ -1,0 +1,8 @@
+P:/Unity/Unity Project/AR Machine Test (Atina Tech Pvt. Ltd)/.utmp/RelWithDebInfo/v1b57506/arm64-v8a/CMakeFiles/edit_cache.dir
+P:/Unity/Unity Project/AR Machine Test (Atina Tech Pvt. Ltd)/.utmp/RelWithDebInfo/v1b57506/arm64-v8a/CMakeFiles/rebuild_cache.dir
+P:/Unity/Unity Project/AR Machine Test (Atina Tech Pvt. Ltd)/.utmp/RelWithDebInfo/v1b57506/arm64-v8a/GameActivity/CMakeFiles/game.dir
+P:/Unity/Unity Project/AR Machine Test (Atina Tech Pvt. Ltd)/.utmp/RelWithDebInfo/v1b57506/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+P:/Unity/Unity Project/AR Machine Test (Atina Tech Pvt. Ltd)/.utmp/RelWithDebInfo/v1b57506/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+P:/Unity/Unity Project/AR Machine Test (Atina Tech Pvt. Ltd)/.utmp/RelWithDebInfo/v1b57506/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+P:/Unity/Unity Project/AR Machine Test (Atina Tech Pvt. Ltd)/.utmp/RelWithDebInfo/v1b57506/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+P:/Unity/Unity Project/AR Machine Test (Atina Tech Pvt. Ltd)/.utmp/RelWithDebInfo/v1b57506/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+P:\Unity\Unity Project\AR Machine Test (Atina Tech Pvt. Ltd)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+P:\Unity\Unity Project\AR Machine Test (Atina Tech Pvt. Ltd)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+P:\Unity\Unity Project\AR Machine Test (Atina Tech Pvt. Ltd)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
